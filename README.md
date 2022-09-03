@@ -1,4 +1,4 @@
-- 👋 Hi, I’m my name is Louise and my nickname here is @louohr
+- 👋 Hi, I’m @louohr
 - 👀 I’m interested in programming, test automation, web developing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
