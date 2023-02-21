@@ -2,8 +2,7 @@
 - 👀 I’m interested in programming, test automation, web developing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-- ![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+- 📫 How to reach me ...
 
 
 
