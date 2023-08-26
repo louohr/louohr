@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @louohr
+- 👋 Hi!
+- My name is Louise Öhrner, and I'm an apsiring software tester. 
 - 👀 I’m interested in programming, test automation, web developing
 - 🌱 I’m currently learning python
 - ⚡ Fun fact: I love art and video games
