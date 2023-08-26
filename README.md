@@ -1,5 +1,5 @@
 - 👋 Hi!
-- :star: My name is Louise Öhrner, and I'm aspiring to become a software tester. 
+- ⭐ My name is Louise Öhrner, and I'm aspiring to become a software tester. 
 - 👀 I’m interested in programming, test automation, web developing
 - 🌱 I’m currently learning python
 - ⚡ Fun fact: I love art and video games
