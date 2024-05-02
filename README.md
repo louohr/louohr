@@ -1,5 +1,5 @@
 # 👋 Hello, there!
-My name is Louise Öhrner and I'm aspiring to become a software tester. I'm from Sweden. 
+My name is Louise Öhrner. I want to learn web development. I'm from Sweden. 
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
