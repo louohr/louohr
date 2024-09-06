@@ -1,5 +1,4 @@
 # 👋 Hello, there!
-My name is Louise. I want to learn web development. I'm from Sweden. 
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
